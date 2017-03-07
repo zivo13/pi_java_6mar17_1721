@@ -17,6 +17,7 @@
 <link rel="stylesheet" href="css/watson-bootstrap-dark.css">
 <link rel="stylesheet" href="css/banner.css">
 <link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
 	<div class="row service-container">
@@ -24,7 +25,7 @@
 			<div class="row top-nav navbar-fixed-top">
 				<div class="container">
 					<a
-						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
+						href="#"
 						class="top-nav--logo-link"><h3 class="heading left">
 							 <span class="top-nav--logo-wdc">The Community HUB Cloud</span>
 						</h3></a>
