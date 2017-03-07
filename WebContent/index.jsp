@@ -26,11 +26,11 @@
 					<a
 						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
 						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">Watson Developer Cloud</span>
+							IBM <span class="top-nav--logo-wdc">Watsonn Developer Cloud</span>
 						</h3></a>
 					<nav class="top-nav--nav">
 						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html"><fmt:message key="application.label.services"/></a></li>
+							href="http://www.thecommunity-hub.com"><fmt:message key="application.label.services"/></a></li>
 						<li class="top-nav--nav-item"><a
 							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/"><fmt:message key="application.label.docs"/></a></li>
 						<li class="top-nav--nav-item"><a
@@ -89,7 +89,7 @@
 										value="es" class="sample-radio"><fmt:message key="application.label.spanish"/></label>
 								</div>
 							</div>
-							<textarea rows="12" required="true" name="text"
+							<textarea rows="12" required name="text"
 								placeholder="<fmt:message key="application.input.placeHolder"/>"
 								class="content form-control"></textarea>
 							<div class="text-right inputFootnote">
