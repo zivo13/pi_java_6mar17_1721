@@ -26,17 +26,11 @@
 					<a
 						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
 						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">Watsonn Developer Cloud</span>
+							 <span class="top-nav--logo-wdc">The Community HUB Cloud</span>
 						</h3></a>
 					<nav class="top-nav--nav">
 						<li class="top-nav--nav-item"><a
 							href="http://www.thecommunity-hub.com"><fmt:message key="application.label.services"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/"><fmt:message key="application.label.docs"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/gallery.html"><fmt:message key="application.label.appGallery"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="https://developer.ibm.com/watson/"><fmt:message key="application.label.community"/></a></li>
 					</nav>
 				</div>
 			</div>
@@ -55,14 +49,8 @@
 						</div>
 						<div class="resource-item-container">
 							<a
-								href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights/api"
-								class="resource-item"><fmt:message key="application.label.apiReference"/></a><a
-								href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/personality-insights/"
-								class="resource-item"><fmt:message key="application.label.documentation"/></a><a
-								href="https://github.com/watson-developer-cloud/personality-insights-java"
-								class="resource-item"><fmt:message key="application.label.githubFork"/></a><a
-								href="https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/personality-insights-java.git"
-								class="resource-item"><fmt:message key="application.label.bluemixForkAndDeploy"/></a>
+								href="http://www.thecommunity-hub.com/comofunciona.html"
+								class="resource-item"><fmt:message key="application.label.apiReference"/></a>
 						</div>
 					</div>
 				</div>
